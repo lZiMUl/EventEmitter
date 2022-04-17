@@ -1,0 +1,47 @@
+{
+  "name": "eventemitter",
+  "description": "基於瀏覽器的 EventEmitter",
+  "version": "1.0.0",
+  "author": {
+    "name": "lZiMUl",
+    "email": "AA2908554069@gmail.com",
+    "url": "https://b23.tv/vUMYbj"
+  },
+  "contributors": [
+    {
+      "name": "lZiMUl",
+      "email": "AA2908554069@gmail.com",
+      "url": "https://b23.tv/vUMYbj"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "lZiMUl",
+      "email": "AA2908554069@gmail.com",
+      "url": "https://b23.tv/vUMYbj"
+    }
+  ],
+  "homepage": "https://b23.tv/vUMYbj",
+  "main": "./build/index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "keywords": [
+    "lZiMUl",
+    "WebSite",
+    "EventEmitter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lZiMUl/EventEmitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lZiMUl/EventEmitter/issues/",
+    "email": "AA2908554069@gmail.com"
+  },
+  "private": true,
+  "preferGlobal": true,
+  "deprecated": false
+}

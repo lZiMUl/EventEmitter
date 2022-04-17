@@ -1,0 +1,11 @@
+{
+  "watch": "./src/",
+  "ext": "*.ts",
+  "ignore": [
+    "./.git/",
+    "./.github/",
+    "./.vscode/",
+    "./.gitignore",
+    "./nohup.out"
+    ]
+}
